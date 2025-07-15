@@ -34,5 +34,5 @@ A responsive React application with:
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/energy-dashboard.git
+git clone https://github.com/piri07/energy-dashboard.git
 cd energy-dashboard
